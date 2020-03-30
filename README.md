@@ -1,7 +1,11 @@
 Audrey Ritzenthaler
+
 234, rue de Tolbiac
+
 Paris 75013
+
 06.68.39.96.00
+
 ritzenthaler.audrey@gmail.com
 
 
@@ -29,13 +33,18 @@ J'ai fini par tomber sur la programmation il y a quelques années. Je me suis am
 2019 		Graveuse et contrôleuse qualité sur bijoux en argent - **Herink** (77)
 2015  à 2017	Vendeuse libre service à mi-temps - rayon textile - **Ikea** (91);
 >_Mise en rayon_
+>
 >_Accueil et conseils clients_
+>
 >_Conception de salle de bain_
 
 2011 à	2019	Assistante de **Laurence Guenoun Trivulce** - Photographe indépendante (75);
 >_Mise en place du matériel photographique_
+>
 >_Accueil client_
+>
 >_Traitement de l'image_
+>
 >_Making off_
 
 ## Hobbies
