@@ -55,6 +55,15 @@ J'ai fini par tomber sur la programmation il y a quelques années. Je me suis am
 - Voyage
 - Musique
 
+## Compétences
+
+- Html et css
+- Javascript et React
+- Photoshop et Lightroom
+
+- Motivée
+- Dynamique
+- Positive
 
 
 
