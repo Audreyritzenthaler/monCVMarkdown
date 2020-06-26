@@ -14,7 +14,6 @@ ritzenthaler.audrey@gmail.com
 
 ## Présentation
 
-![portrait](https://i.imgur.com/FpU7xvU.jpg)
 
 Après avoir fini mes études dans le domaine de la **photographie**, j'ai voulu découvrir de nouveaux horizons. J'ai essayé plusieurs types de travaux, allant de _l'usine_ à _la vente_ en passant par _assistante photographe_ puis _photographe_. J'ai eu la chance d'etre publié dans un _webzine [ici] et [là]_. Je fais partie d'une association d'artiste nommée **la Ronde de Nuit**, qui promouvoit les jeunes artistes du 77 par toutes sortes d'évènements.
 J'ai fini par tomber sur la programmation il y a quelques années. Je me suis amusée à vouloir faire mon site photo, seule, en apprenant le **_html_** et le **_css_**. J'ai tellement aimé cette découverte que je suis maintenant en étude à la **Wild Code School**. Voici mon [site personnel].
